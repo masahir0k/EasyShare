@@ -8,8 +8,6 @@ Everyone has something they use not so often.<br/>
 How about share and use thing free of charge?<br/>
 That's the concept.<br/>
 
-URL:<br/>
-http://easyshareapp.com <br/>
 
 Functions:<br/>
 - User registration<br/>
